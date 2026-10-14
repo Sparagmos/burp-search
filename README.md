@@ -19,4 +19,4 @@ The last scan is shown instantly from cache while a full rescan runs in the back
 
 On first launch Raycast asks for:
 - **Search Directory**: Top-level directory containing your projects (searched recursively)
-- **Burp Suite App Name**: Name of your Burp app (default: "Burp Suite Professional")
+- **Burp Suite App Name**: Name of your Burp app (default: "Burp Suite")
