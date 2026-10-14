@@ -25,10 +25,9 @@
         {
           "name": "searchDirectory",
           "title": "Search Directory",
-          "description": "Root directory to search for .burp project files",
+          "description": "Top-level project directory; all subdirectories are searched for .burp files",
           "type": "directory",
-          "required": true,
-          "default": "~/Documents"
+          "required": true
         },
         {
           "name": "burpAppName",
